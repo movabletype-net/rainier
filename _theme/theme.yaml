@@ -19,7 +19,7 @@ elements:
       templates:
         index:
           main_index:
-            label: 'Main Index'
+            label: 'Main Index～'
             outfile: 'index.html'
             rebuild_me: 1
           feed_recent:
@@ -27,7 +27,7 @@ elements:
             outfile: 'atom.xml'
             rebuild_me: 1
           styles:
-            label: 'Stylesheet'
+            label: 'Stylesheetしーと'
             outfile: 'styles.css'
             rebuild_me: 1
           styles_ie:
@@ -50,7 +50,7 @@ elements:
                 archive_type: 'Individual'
         page:
           page:
-            label: 'Page'
+            label: 'Pageい'
             mappings:
               page:
                 archive_type: 'Page'
